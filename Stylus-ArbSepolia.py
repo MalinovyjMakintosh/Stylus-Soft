@@ -18,7 +18,7 @@ def bridge(account):
         'gas': 162204,
         'from': address,
         'nonce': nonce,
-        'value': 3000000000000000
+        'value': 2000000000000000
 
 
     })
