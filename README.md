@@ -4,6 +4,8 @@
 
 Открываете консоль (win+R -> cmd), Переходите в директорию скрипта (Команда "cd путь к папке")
 
+После перехода в нужную папку прописываете команду "pip install -r requirements.txt"
+
 Сначала клеймим эфир в Арбитрум Сеполии (0.05) - https://faucet.quicknode.com/arbitrum/sepolia (Ру айпи в бане)
 
 Далее запускаем командой python ArbSepolia-Stylus.py для запуска скрипта бриджа ETH (0.03) Arbitrum Sepolia - Stylus
